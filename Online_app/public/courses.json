@@ -1,0 +1,124 @@
+[
+    {
+        "_id": "6150100647307b26808d506d",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png",
+        "name": "vue.js",
+        "fee": 4000,
+        "trend": "mid",
+        "level": "Beginner",
+        "instructor": "Ms Kavitha Suresh",
+        "company": "2 months"
+        
+    },
+    {
+        "_id": "615010066e368690296d21d3",
+        "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SAAxcKl4KMZhHqNx2yndgGVOay564eS94A&usqp=CAU",
+        "name": "Python",
+        "fee": 5000,
+        "trend": "top",
+        "level": "Expert",
+        "instructor": "Ms Lakshmi Priya",
+        "company": "6 months"
+    },
+    {
+        "_id": "615010067edaac806441b197",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIaa6lDRUW_qzrAixG0EiWrhYBhiPR_qNeKQ&usqp=CAU",
+        "name": "mongoDB",
+        "fee": 3500,
+        "trend": "mid",
+        "level": "Beginner",
+        "instructor": "Mr Karthik Raj",
+        "company": "4 months"
+    },
+    {
+        "_id": "615010069753ae0b9e0f4699",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png",
+        "name": "Angular",
+        "fee": 10000,
+        "trend": "mid",
+        "level": "Intermediate",
+        "instructor": "Ms Deepa Srinivasan",
+        "company": "1 months"
+    },
+    {
+        "_id": "615010068f6ee06f6aa5bf40",
+        "img": "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png",
+        "name": "MySql",
+        "fee": 2000,
+        "trend": "mid",
+        "level": "Beginner",
+        "instructor": "Mr Rajesh Kumar",
+        "company": "2 months"
+    },
+    {
+        "_id": "61501006949eacc0ff21383b",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjsJJNkJXDf8KTp8UGExyf908fh1zgOXwC8A&usqp=CAU",
+        "name": "Bootstrap",
+        "fee": 4500,
+        "trend": "mid",
+        "level": "Intermediate",
+        "instructor": "Mr Arun Kumar",
+        "company": "6 months"
+    },
+    {
+        "_id": "61501006498492ae90cccded",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnSYJx-5pLgMizR_Fdp0sR5RTzWZhzJnRMg&usqp=CAU",
+        "name": "Javascript",
+        "fee": 3500,
+        "trend": "top",
+        "level": "Beginner",
+        "instructor": "Ms Vasanti Rani",
+        "company": "3 months"
+    },
+    {
+        "_id": "61501006623747186adc7fb9",
+        "img": " https://reactjs.org/logo-og.png",
+        "name": "React.js",
+        "fee": 6500,
+        "trend": "mid",
+        "level": "Beginner",
+        "instructor": "Mr Ravi Shankar",
+        "company": "1 months"
+    },
+    
+    {
+        "_id": "615010067536df0f8acb86a5",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW11aEpHCVgZNiTF0AhfDR58Kts2fkXGZ4HA&usqp=CAU",
+        "name": "Tailwindcss",
+        "fee": 5500,
+        "trend": "mid",
+        "level": "Intermediate",
+        "instructor": "Ms Meera Venkatesh",
+        "company": "3 months"
+    },
+    {
+        "_id": "615010067536d42348acb86a5",
+        "img": "https://p.kindpng.com/picc/s/194-1944396_icon-for-seo-marketing-increase-seo-hd-png.png",
+        "name": "Search Engine Optimization",
+        "fee": 2500,
+        "trend": "top",
+        "level": "Intermediate",
+        "instructor": "Mr Rajesh Kumar",
+        "company": "4 months"
+    },
+    {
+        "_id": "615010097836d42348acb86a5",
+        "img": "https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png",
+        "name": "Graphics Design (AI)",
+        "fee": 4100,
+        "trend": "mid",
+        "level": "Intermediate",
+        "instructor": "Miss Sujatha Nair",
+        "company": "6 months"
+    },
+    {
+        "_id": "6150100021936d42348a3426a5",
+        "img": "https://ih1.redbubble.net/image.234926628.4496/st,small,507x507-pad,600x600,f8f8f8.jpg",
+        "name": "Data Science With R",
+        "fee": 7000,
+        "trend": "top",
+        "level": "Intermediate",
+        "instructor": "Mr Suresh Babu",
+        "company": "4 months"
+    }
+]
